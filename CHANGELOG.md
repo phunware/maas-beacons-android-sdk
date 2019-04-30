@@ -1,4 +1,8 @@
 # Beacons SDK Changelog
+## Version 3.5.5 (Tuesday, Apr 30th, 2019)
+#### Bug fixes / performance enhancements
+* Added more logs for easier debugging
+
 ## Version 3.5.4 (Tuesday, Mar 19th, 2019)
 #### Features
 * Added enhanced beacon algorithm to account for beacon signal fluctuations
