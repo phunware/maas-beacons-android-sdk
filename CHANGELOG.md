@@ -1,4 +1,8 @@
 # Beacons SDK Changelog
+## Version 3.5.6 (Friday, Dec 6th, 2019)
+#### Bug fixes / performance enhancements
+* Fixed a crash in the network layer
+
 ## Version 3.5.5 (Tuesday, Apr 30th, 2019)
 #### Bug fixes / performance enhancements
 * Added more logs for easier debugging
