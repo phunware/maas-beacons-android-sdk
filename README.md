@@ -2,7 +2,7 @@
 MaaS Engagement Beacons Library for Android
 ==============
 
-Version 3.5.6
+Version 3.5.7
 
 ## Overview 
 This is Phunware's Android SDK for the Beacons module. Visit http://maas.phunware.com/ for more details and to sign up.
@@ -34,7 +34,7 @@ Add the following to your `repositories` tag in your top level `build.gradle` fi
 
 The beacon library can be imported by adding the following to your app's `build.gradle` file
  ```
- implementation('com.phunware.engagement:beacon-location-manager:3.5.6') {
+ implementation('com.phunware.engagement:beacon-location-manager:3.5.7') {
      exclude group: 'com.phunware.engagement', module: 'mobile-engagement'
  }
  ```
